@@ -1,5 +1,5 @@
 # Machine Learning Bootcamp
-*This is a **[Machine Learning Bootcamp Course](https://ineuron.ai/course/Machine-Learning-Bootcamp)**, moderated by **[iNeuron.ai](https://ineuron.ai/)***.
+*This repository contains all the assignments and their solutions given by the respective mentors of **[Machine Learning Bootcamp Course](https://ineuron.ai/course/Machine-Learning-Bootcamp)**, moderated by **[iNeuron.ai](https://ineuron.ai/)***.
 
 ![nnnn](https://user-images.githubusercontent.com/102472369/208127553-7c154d0c-55dc-4b73-8d98-8f25c5a3b5dc.JPG)
 
