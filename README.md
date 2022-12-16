@@ -1,1 +1,1 @@
-*This is a Machine Learning Bootcamp course, moderated by **[iNeuron.ai](https://ineuron.ai/)***.
+*This is a **[Machine Learning Bootcamp Course](https://ineuron.ai/course/Machine-Learning-Bootcamp)**, moderated by **[iNeuron.ai](https://ineuron.ai/)***.
